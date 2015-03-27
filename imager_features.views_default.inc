@@ -60,7 +60,7 @@ function imager_features_views_default_views() {
   $handler->display->display_options['fields']['rendered']['label'] = '';
   $handler->display->display_options['fields']['rendered']['element_class'] = 'imager-thumbnail';
   $handler->display->display_options['fields']['rendered']['element_label_colon'] = FALSE;
-  $handler->display->display_options['fields']['rendered']['file_view_mode'] = 'preview';
+  $handler->display->display_options['fields']['rendered']['file_view_mode'] = 'media_small';
   /* Field: File: Title Text */
   $handler->display->display_options['fields']['field_file_image_title_text']['id'] = 'field_file_image_title_text';
   $handler->display->display_options['fields']['field_file_image_title_text']['table'] = 'field_data_field_file_image_title_text';
