@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Imager Demo feature.
+ */
+
+include_once 'imager_dist.features.inc';
