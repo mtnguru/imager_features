@@ -97,4 +97,4 @@ features[variable][] = site_name
 features[variable][] = user_admin_role
 features[views_view][] = imager_test
 features[wysiwyg][] = wysiwyg
-project path = sites/all/modules
+project path = sites/all/modules/features
